@@ -5,9 +5,9 @@ Access to MySQL database was given to retrieve data on current long-term rental 
 
 Entity Relationship and Entity Relationship diagrams were first drawn in order to extract data from the current long-term rentals and comparative short-term rental data for similar property types and zip codes.
 
-![Entity_Relationship](https://raw.githubusercontent.com/modest-melody/WatershedProperties/main/Watershed%20Properties%20Analysis/SQL%20Diagrams/Rental_Entity_Relationship_Diagram.png))
+![Entity_Relationship](Rental_Entity_Relationship_Diagram.png))
 
-![Relational Schema](https://raw.githubusercontent.com/modest-melody/Watershed-Properties/main/Watershed%20Properties%20Analysis/SQL%20Diagrams/Rental_Relational_Schema.png)
+![Relational Schema](Rental_Relational_Schema.png)
 
 * EDA
 * Nightly rental forecasting
