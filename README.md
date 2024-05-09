@@ -20,10 +20,10 @@ The following and more were performed to provide recommendations on which proper
 
 ### Deliverables
 
-* [Full White Paper Here](Final_White_Paper.pdf)
+* [Full White Paper Here](Final-White-Paper.pdf)
 * [Tableau Dashboard - Assessing potential conversions](https://public.tableau.com/app/profile/michael.mcgee3545/viz/WatershedPropertiesDashboard_17098203602400/Dashboard2)
 * [Tableau Dashboard - Recommendations Presentation](https://public.tableau.com/app/profile/michael.mcgee3545/viz/WatershedPropertiesPresentation/Presentation)
-* [How individual property projections were calculated](https://github.com/modest-melody/Watershed-Properties/tree/main/Watershed%20Properties%20Analysis/Single%20Property%20Financials)
+* [How individual property projections were calculated](https://github.com/modest-melody/Watershed-Properties-Analysis/tree/main/Single-Property-Financials)
 
 
 
