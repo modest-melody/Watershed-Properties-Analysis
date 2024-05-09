@@ -5,9 +5,9 @@ Access to MySQL database was given to retrieve data on current long-term rental 
 
 Entity Relationship and Entity Relationship diagrams were first drawn in order to extract data from the current long-term rentals and comparative short-term rental data for similar property types and zip codes.
 
-![Entity_Relationship](Rental_Entity_Relationship_Diagram.png))
+![Entity_Relationship](SQL-Diagrams/Rental_Entity_Relationship_Diagram.png))
 
-![Relational Schema](Rental_Relational_Schema.png)
+![Relational Schema](SQL-Diagrams/Rental_Relational_Schema.png)
 
 * EDA
 * Nightly rental forecasting
