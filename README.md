@@ -23,6 +23,7 @@ The following and more were performed to provide recommendations on which proper
 * [Full White Paper Here](Final-White-Paper.pdf)
 * [Tableau Dashboard - Assessing potential conversions](https://public.tableau.com/app/profile/michael.mcgee3545/viz/WatershedPropertiesDashboard_17098203602400/Dashboard2)
 * [Tableau Dashboard - Recommendations Presentation](https://public.tableau.com/app/profile/michael.mcgee3545/viz/WatershedPropertiesPresentation/Presentation)
+* [Presentation Notes](Presentation-Notes.md)
 * [How individual property projections were calculated](https://github.com/modest-melody/Watershed-Properties-Analysis/tree/main/Single-Property-Financials)
 
 
